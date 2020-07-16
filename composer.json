@@ -1,0 +1,17 @@
+{
+	"name": "spyryto/type",
+	"description": "Primitive types for data modeling",
+	"authors": [
+        {
+            "name": "Daniele Zecchin",
+            "email": "danielezecchin@gmail.com",
+            "homepage": "https://spyryto.it/",
+            "role": "Developer"
+		}
+	],
+	"autoload": {
+        "files": [
+            "Type.syntax.php"
+        ]
+    }
+}
