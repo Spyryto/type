@@ -1,7 +1,5 @@
 <?php declare( strict_types = 1 );
 
-require_once __DIR__ . "/Type.implementation.php";
-
 use Type\Type;
 
 describe( "Type classes autoloading" );

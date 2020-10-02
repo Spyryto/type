@@ -7,7 +7,6 @@ use PHPGenerator\PHP;
 use Type\Type;
 
 require_once __DIR__ . "/../PHPGenerator/PHPGenerator.php";
-require_once __DIR__ . "/../Type.implementation.php";
 require_once __DIR__ . "/../Utils/Utils.php";
 
 function collectionOf( string $wrappedType, string $namespace = '' ) : string

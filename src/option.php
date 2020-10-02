@@ -7,7 +7,6 @@ use PHPGenerator\PHP;
 use PHPGenerator\ClassInfo;
 
 require_once __DIR__ . "/../PHPGenerator/PHPGenerator.php";
-require_once __DIR__ . "/../Type.implementation.php";
 require_once __DIR__ . "/../Utils/Utils.php";
 
 function option( String $fullClassName, String $baseType ) : string

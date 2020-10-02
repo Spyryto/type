@@ -2,8 +2,6 @@
 
 namespace Type\DSL;
 
-require_once __DIR__ . "/Type.implementation.php";
-
 use Type\Type;
 
 /**

@@ -8,7 +8,6 @@ use PHPGenerator\ClassInfo;
 use Type\Text;
 
 require_once __DIR__ . "/../PHPGenerator/PHPGenerator.php";
-require_once __DIR__ . "/../Type.implementation.php";
 require_once __DIR__ . "/../Utils/Utils.php";
 
 function enum( string $fullTypeName, string ...$types ) : string
